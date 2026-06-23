@@ -48,4 +48,5 @@ and time periods — all in real time.
 - Built a custom date table to avoid duplicate months across years
 
 ## Screenshots
-*(Add screenshots of the dashboard here)*
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/64cb2379-6888-4a01-8ba9-e7e4952afa54" />
+
